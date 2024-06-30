@@ -1,1 +1,1 @@
-# PJT-0000
+Repositório criado para armazenar meus projetos pessoais - criado em 29/06/2024.
