@@ -1,0 +1,1 @@
+Jogo de Ping Pong orientado a objetos, com todas as configurações separadas em arquivos.
