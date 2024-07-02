@@ -1,0 +1,1 @@
+Diretório criado para armazenar jogos criados usando a biblioteca Pygame.
