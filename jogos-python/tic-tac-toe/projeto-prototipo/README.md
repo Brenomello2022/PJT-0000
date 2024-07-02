@@ -1,1 +1,1 @@
-Protótipo do jogo "Tic Tac Toe" mais conhecido como "Jogo da Velha" com todas as configurações.
+Protótipo do jogo "Tic Tac Toe" mais conhecido como "Jogo da Velha" com todas as configurações juntas em um unico arquivo.
