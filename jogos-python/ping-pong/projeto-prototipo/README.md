@@ -1,0 +1,1 @@
+Protótipo do jogo de Ping Pong com todas as configurações juntas em um único arquivo.
