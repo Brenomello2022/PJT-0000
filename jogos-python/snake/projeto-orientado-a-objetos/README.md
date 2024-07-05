@@ -1,0 +1,1 @@
+Jogo Snake orientado a objetos, com todas as configurações separadas em arquivos.
