@@ -1,0 +1,1 @@
+Protótipo do jogo Snake com todas as configurações juntas em um único arquivo.
