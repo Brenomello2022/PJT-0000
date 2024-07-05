@@ -1,0 +1,1 @@
+Jogo Snake separado em dois projetos, um sendo o protótipo, e o outro sendo um jogo orientado a objetos.
