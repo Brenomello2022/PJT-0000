@@ -4,5 +4,4 @@ O nome PJT vem de projetos.
 
 Linguagens usadas até o momento: 
 
-Python <span style="color: #3572A5; font-size: 1.5em; line-height: 0;">&#9679;</span>
-
+Python <span style="color: #3572A5; font-size: 2em; line-height: 0;">&#9679;</span>
