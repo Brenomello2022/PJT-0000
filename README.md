@@ -8,4 +8,4 @@ Linguagens usadas até o momento:
 |-----------|----------|
 | Python    | ![#3572A5](https://via.placeholder.com/15/3572A5/3572A5.png) |
 
-
+<span style="color: #3572A5;">Python</span>
