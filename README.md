@@ -10,4 +10,4 @@ Linguagens usadas até o momento:
 
 | Linguagem | Cor      |
 |-----------|----------|
-| Python    | ![Python color](https://via.placeholder.com/15/3572A5/3572A5?text=+) |
+| Python    | ![Python color](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white) |
